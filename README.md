@@ -1,4 +1,10 @@
 # SVG Logo 
+```
+https://github.com/Thaodev23/svg-logo
+
+https://app.screencastify.com/v2/watch/2wl9M5szAQYq6RVNZ220
+
+```
 
 ## User Story
 
@@ -28,8 +34,11 @@ THEN all the properties that were inputted as the answers will appear in the fil
 
 ```
 ## Image
+```
+Below: Image of an example of the generated logo.svg file. 
+```
+![README.file](./Images/pic1.png)
 
-Below: 
 
 ## Collaborators
 
@@ -43,3 +52,8 @@ Classmate that collaborated on the homework assignment together.
 Sichoun Nplhaib Lee:
 Github profile - https://github.com/DDXP3.
 Classmate that collaborated on the homework assignment together.
+```
+
+## References
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof
