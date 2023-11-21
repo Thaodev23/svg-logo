@@ -1,8 +1,15 @@
 # SVG Logo 
 ```
+Link to the github repo: 
 https://github.com/Thaodev23/svg-logo
 
+
+Link to the screencastify video: 
 https://app.screencastify.com/v2/watch/2wl9M5szAQYq6RVNZ220
+
+
+Link to the example of the generated svg logo:
+https://github.com/Thaodev23/svg-logo/blob/main/lib/logo.svg
 
 ```
 
